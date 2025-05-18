@@ -87,6 +87,8 @@ Sprachsample "schluck von den männern" wäre schlussendlcih das selbe wie der V
 
 
 
-relevant wäre zeilen 82, 53, 
+relevant wäre zeilen 82, 53, 47, 26, 11
+
+IRRELEVANT, Spam bzw. tiefrangigere Mittäter und Profiteuer wären: 38, 65, 67, 74, 77, 86
 
 
