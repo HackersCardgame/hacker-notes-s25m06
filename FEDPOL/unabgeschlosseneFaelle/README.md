@@ -32,6 +32,16 @@ Fall Tobias Moser
 
 Fall Cornelia Utz
 =================
+ich VERMUTE mal, bei den Drogen muss man über Alkohol, zum rauchen zum kiffen, zu XTC/MDMA, zu Kokain bis dann zum Heroin erst aufsteigen
+erst viel später mit ca 30 Jahren habe ich erfahren, dass damals viele der 14 Jährigen auch schon harte drogen genommen haben. ich hatte ja in der bezirksschule noch nicht mals zigaretten geraucht oder gekifft
+
+[FORK] in der korrekten chronologischen reihenfolge der übermittlung
+
+[FORK] somit hätten die dealer einfach geschlossen gesagt, dass Cornelia Utz die Drogen in eigenregie angefüttert hätte
+[FORK] somit wäre gegen cornelia utz ermittelt worden ...
+
+
+
 
 
 Fall Dauerstress und dauernde Morddrohungen gegen Marc jr Landolt
