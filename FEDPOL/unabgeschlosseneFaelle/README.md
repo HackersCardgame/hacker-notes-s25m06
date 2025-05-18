@@ -40,7 +40,9 @@ erst viel später mit ca 30 Jahren habe ich erfahren, dass damals viele der 14 J
 [FORK] somit hätten die dealer einfach geschlossen gesagt, dass Cornelia Utz die Drogen in eigenregie angefüttert hätte
 [FORK] somit wäre gegen cornelia utz ermittelt worden ...
 
+die Dealer wären aus der Generation unserer Eltern gewesen wie der Urs Blum mit dem Ziel über Drogen und Schuld dann die Kompromat-Datenbank bei der Zürich Versicherung abzufüllen um uns kinder damit zu erpressen
 
+also beide [FORKs] wären nur die kleinen Fische
 
 
 
