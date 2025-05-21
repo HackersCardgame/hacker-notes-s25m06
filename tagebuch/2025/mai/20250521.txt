@@ -82,3 +82,13 @@ ich VERMUTE die Malware wird durch UPC zB mit dem Glücksspielegesetz über die 
 
 also somit hat die CH army allenfalls einen mirror mit infizierten Armbian images
 
+BUG_REPORTs/armbian/evHatDieChArmyEinenMirrorMitInfiziertenImagesProduziert.png
+
+und da ist wieder eine hohle gasse von über neuralink erzwungenen sackgassen mit sägezahn und massenhaft cybersprengfallen
+
+und ihc VERMUTE das wäre mit access based ennumeration, wer nichts zu erzeählen oder verpetzen hat bekommt die nicht infizierten images
+--> das wäre vermutlcih das was die Informatik Kassen der HTL/FHA/FHNW primär machen
+
+
+oder die haben armbian.com aufgekauft oder halten den devs die knarre an den kopf
+
