@@ -9,4 +9,12 @@ Das C4ISR bzw. DCGS-A der Schweizer Armee, bzw. das was die ETH selber programmi
 
 [1] hier blendet jemand oder eine automatisierte software das Sprachsample von Stefan Bader ein: "ich (stefan bader) werde überall dran sauen"
 
+dann bei dem Screenshot FEDPOL/github.com/Screenshot ...
+
+ich VERMUTE Github ändert die dinge nicht selber aber infiziert den client und ändert es dann auf dem client so dass es aussehen würde, als ob das der user selber war
+
+ANYBODY ???
+
+und das ding scheint irgendwie recht ausgereift uz sein, das wollte jetzt glaub grad, dass ich den Screenshot "selber" lösche.
+
 
