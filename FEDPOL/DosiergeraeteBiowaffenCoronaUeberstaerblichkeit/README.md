@@ -14,6 +14,9 @@ ihc war nicht ganz aber parktisch der erste kunde
 
 das heisst dei Schweizer Armee bzw. die Chemie und Pharam in der schweiz ist primär im biowaffengeschäft
 
+dann wurde ich ca 2h terrorisisert bis isch das protokollieren konnte, das foto ist von ca 07:35
 
+jetzt ist Fri May 30 09:17:45 CEST 2025
 
+die mitarbeiterin welche das von hand angefasst hat hätte mittleriweile hunderte anderer kunden bedeint und infiziert
 
