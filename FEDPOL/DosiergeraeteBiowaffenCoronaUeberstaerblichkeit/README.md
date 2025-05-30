@@ -28,3 +28,10 @@ urs blum der Zürich Verischrung oder TTS: "das ist nur ein Spiel"
 ich: ... aber das problem bei einem solchen spiel ist, dass dann das die looser mit echten biowaffen anfangen zu spielen, also nicht unbedingt so der beste trend um trendsetter zu spielen
 
 
+
+Fri May 30 09:49:04 CEST 2025
+dann menschen welche wie ich permanent mit biowaffen-drohungen bedroht werden und dann kommt zufällig oder "zufällig" so ein Mensch aus der Techno bzw. Hardstyle Szene auch am bahnhoft auf das selbe gleist meist noch in über bedrängender weise zu dieser Person welche bedroht wird wäre das T-Shirt ein Revictimizing eine "Auffrischungsspritze" der Drohung durch die schweizer armee gegen den zeugen, weil insbesondere an grösseren Bahnhöfen würde die SChweizer Armee sowieso nie die Access codes auf steuerfunktionen egal ob nur stimulus-response habits oder neuro-implantate an andere geben
+
+als FALLS INTERPOL, EUROPOL und FEDPOL das liest, das wäre es echt mal toll wenn die entsprechenden FEHBAREN Militärs von einem Zivil-Gericht verwahrt würden und den offizieren sämtliche diese Machtmittel genommen wird
+
+ 
