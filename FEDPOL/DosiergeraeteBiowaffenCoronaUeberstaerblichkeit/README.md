@@ -20,3 +20,11 @@ jetzt ist Fri May 30 09:17:45 CEST 2025
 
 die mitarbeiterin welche das von hand angefasst hat hätte mittleriweile hunderte anderer kunden bedeint und infiziert
 
+
+dann falls das stimmt würde das allenfalls ein Teil nicht erklärbaren der CORONA Übersterblichkeit erklären. das wäre um Zeugen oder autistne zu ermorden
+
+urs blum der Zürich Verischrung oder TTS: "das ist nur ein Spiel"
+
+ich: ... aber das problem bei einem solchen spiel ist, dass dann das die looser mit echten biowaffen anfangen zu spielen, also nicht unbedingt so der beste trend um trendsetter zu spielen
+
+
