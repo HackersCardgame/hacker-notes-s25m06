@@ -24,4 +24,12 @@ das hiesse, sobald im ASN1 Tree (wo scheinbar auch mein Körper und extrmitäten
 
 vermutlich ähnlcih wie die algorithmen vom CCC Talk "mining bugs with graph database" aber als etwas wie ein ASN1 Tree Walker Algorithmus auf dem ASN1 Tree des C4ISR bzw. des ETH eigenen DCGS-A
 
+19:24
+
+nur so eine Frage:
+* Die Waffenfabrik produziert Waffen
+
+aber wäre es nicht plausibler dass die Waffenfabrik oder generell Fabriken Drohnen auf 2 Beinene produzieren, Stichwort Industrial Automatisation karte (hackerscardgame.org/1 t33 Karte)
+
+
 
