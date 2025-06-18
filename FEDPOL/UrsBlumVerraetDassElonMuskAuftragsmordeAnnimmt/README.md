@@ -18,3 +18,12 @@ somit auch mal schauen wieviele twitter account von verstorbenen zeugen welche r
 [1] weil das ist schienbar auch grad noch ein terrorist mit root account auf den hostpoinst servern aktiv
 
 
+
+und ohne screenshot wäre ich einfach wieder nur ein Schizophnrener Spinner...
+
+
+also twitter zensiert und hilft urs blum beim ermorden von zeugen
+
+also das nur ein toter zeuge ist ein guter zeuge wäre das was man mit den indiandern schon gemacht hätte
+
+
