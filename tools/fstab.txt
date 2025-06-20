@@ -53,3 +53,11 @@ smartctl -l error /dev/sda
 dann zabbix modul installieren
 
 
+#noch nicht probiert
+mit mdadm --create --assume-clean könnte man die raid informationen neu schreiben ohne dass die superblöcke oder partitions tabelle geänert würde
+### aber noch nicht probiert
+
+
+
+
+
