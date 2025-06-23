@@ -55,7 +55,17 @@ marc@debian:~/hacker-notes-s25m06/FEDPOL/sprengstoffDrohungDurchGalaxus$ figlet 
 |_|   |_____|____/|_|    \___/|_____|
                                      
 
+marc@debian:~/hacker-notes-s25m06/FEDPOL/sprengstoffDrohungDurchGalaxus$ figlet KLEINERE :
+ _  ___     _____ ___ _   _ _____ ____  _____     
+| |/ / |   | ____|_ _| \ | | ____|  _ \| ____|  _ 
+| ' /| |   |  _|  | ||  \| |  _| | |_) |  _|   (_)
+| . \| |___| |___ | || |\  | |___|  _ <| |___   _ 
+|_|\_\_____|_____|___|_| \_|_____|_| \_\_____| (_)
+                                                  
+
+
 Dann für die Kleineren:
+
 Macht eine Screenshot oder einen screencast, sonst seid ihr vermutlich dennoch einfach schizophrene spinner ...
 
 ~/hacker-notes-s25m06/FEDPOL/sprengstoffDrohungDurchGalaxus
