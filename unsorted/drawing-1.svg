@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="drawing-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.32"
+     inkscape:cx="-240.625"
+     inkscape:cy="306.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="335.35276"
+       y="203.45669"
+       width="282.03307"
+       height="171.18425"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1;font-family:Lusinda;-inkscape-font-specification:Lusinda;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.296403;fill:#d45500;stroke:#ff6060;stroke-width:0.600001"
+       x="106.92"
+       y="124.74001"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.6"
+         x="106.92"
+         y="124.74001">Choose wisely. Choose once. Choose forever. Choose both</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="font-size:33.3333px;line-height:1;font-family:Lusinda;-inkscape-font-specification:Lusinda;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;opacity:0.296403;fill:#d45500;stroke:#ff6060;stroke-width:2.26772;shape-inside:url(#rect2)"><tspan
+         x="347.37021"
+         y="230.12367"
+         id="tspan3">Choose wisely. Choose </tspan><tspan
+         x="359.23687"
+         y="263.45697"
+         id="tspan4">once. Choose forever. </tspan><tspan
+         x="404.48683"
+         y="296.79027"
+         id="tspan5">Choose both</tspan></text>
+  </g>
+</svg>
