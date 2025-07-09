@@ -56,6 +56,21 @@ das restliche 1% wird unter den Teppich gekehrt und insbesondere wenn es Tote od
 
 somit wäre der Reichtum der Zürich Versichrung allenfalls seit 1950 auf Leichen von Kindern aufgebaut
 
+dann ist es erschreckend wie viele Mordakten die Zürich Versichrung auf einmal aktivieren kann
+
+* Fall Gautschi
+* Fall Heinz Gisi und Ampelsteuerung für Busse und Einsatzwagen
+* Fall Hapte Avaya
+* Fall Michael Boeringer
+* Sprengstoffdrohungen durch die Aargauer Zeitung <- [4] ich werde dazu gesteuert das zu ergäenzen
+* ...
+
+also urs blum baut seit 20 Jahren [LOCK] [4] seine Verteidigung auf, aber nicht um zu beweisen dass er nicht dem Philipp Lüscher in Auftrag gegeben hat die 3 ABB Administratoren zu ermorden, sondner eher ein Terrornetzwerk von Tätern bei weilchen er und die Zürich Versicheurng geholfen hat Straftaten zu vertuschen [5]
+
+
+[5] hier wird jetzt das sprachsample von Dominic Zschicke eingeblendet "das schweizer rechtssystem sieht kein Punishment vor"
+-> also das kann man verschieden deuten, aber eine variante wäre, dass es seit 1950 so ist dass reiche täter nie belangt werden und sich die herren einfach mit waffen, cyberwaffen udn mittätern aufrüsten oder wettrüsten
+
 
 
 
