@@ -28,4 +28,19 @@ Weil mit dem dass dieser Fall beweisen würde gäbe es einen Präzedenzfall gege
 [2] ich: wenn das zu 100% ich geschrieben hätte dann würde dort "Lawinen-Unfall" stehen
 
 
+Thu Jul 10 01:42:54 CEST 2025
+ich VERMUTE das wurde jetzt von der Zürich Versichrung selber noch "freigeschaltet"
+
+
+README.md
+Screenshot From 2025-07-10 00-36-02.png
+Screenshot From 2025-07-10 01-41-28.png
+Screenshot From 2025-07-10 01-41-49.png
+Screenshot From 2025-07-10 01-42-07.png
+
+ab dem zeitpunkt wo urs blum sich nicht aus der Affähre verdrücken kann wegen der Wirtschaftsspionage mit Morden in dem er seinen Sohn verrät scheint ein weiteres terrornetzwerk auf mich zuzugreifen
+
+legt eigentlihc so ein weiteres mal den fokus auf mich bzw. auf meine nichte
+
+
 
