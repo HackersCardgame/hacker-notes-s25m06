@@ -43,4 +43,19 @@ ab dem zeitpunkt wo urs blum sich nicht aus der Affähre verdrücken kann wegen 
 legt eigentlihc so ein weiteres mal den fokus auf mich bzw. auf meine nichte
 
 
+das hiesse somit allenfalls, dass das Konzept "Pareto Prinzip mit Rest" [3]
+
+
+
+
+[3] "Pareto Prinzip mit Rest"
+
+mit 20% Aufwand erledigt man 80% der Arbeit
+mit 80% Aufwand erledigt man weitere 19% der Arbeit
+das restliche 1% wird unter den Teppich gekehrt und insbesondere wenn es Tote oder Millionenschaden gab wird es seit 1950 zB. Verdingkinder oder ab 1970 nach der Schwarzenbach Initiative zB Italiänern untergeschoben
+
+somit wäre der Reichtum der Zürich Versichrung allenfalls seit 1950 auf Leichen von Kindern aufgebaut
+
+
+
 
