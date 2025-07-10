@@ -71,6 +71,37 @@ also urs blum baut seit 20 Jahren [LOCK] [4] seine Verteidigung auf, aber nicht 
 [5] hier wird jetzt das sprachsample von Dominic Zschicke eingeblendet "das schweizer rechtssystem sieht kein Punishment vor"
 -> also das kann man verschieden deuten, aber eine variante wäre, dass es seit 1950 so ist dass reiche täter nie belangt werden und sich die herren einfach mit waffen, cyberwaffen udn mittätern aufrüsten oder wettrüsten
 
+dann habe ich heute intimidation surveillance dokumentiert
+
+Screenshot From 2025-07-10 01-53-57.png
+
+das betrifft nicht nur mich, das betrifft alle telli bewohner, oder mindestens diese welche zu diesem zeitpunkt nach hause kommen
+
+dann als ich das foto gemacht habe wurde ich von dem Polizisten aufgehalten, bedroht man würde mich verwahren weil ich fotos gemacht habe
+
+das heisst auch dass der polizist weiss, dass das illegale intimidation surveillance ist, weil sonst würde er mich nciht dazu "erziehen" wollen solche dinge nicht mit Foto zu dokumenteiern
+
+ich musste dann meinen ausweis zeigen, er hat mit sienme handy das gescannt, und vermutlich dann sich selber angeschwärzt, weil mein Datensatz bei in der Polizei-Datenbank sowieso einen datenbank trigger ausgelöst hätte.
+
+als ich dann dem fedpol anrufen wollte hat er dann sehr schnell gesagt ich könne wieder gehen, also er will ncith dass ich mit dem fedpol rede
+
+somit wären die 2 Polizei autos ca 2012-2014 wo der jürg stalder mich angegriffen hat und dann der polizei angerufen hat ich sei suizidal [6] also da wäre eines der Polizei autos von der kantonspolizei Aargau gewesen mit dem auftrag mich zu ermorden, dann das andere wäre vermutlcih vom FEDPOL gewesen zu meinem Schutz
+
+also die Kantonspolizei bzw besser forumliert einige Herren [7] der Kantonspolizei führen einen Krieg gegen die Bundespolizei (FEDPOL) 
+
+
+[6] da war vermutlich auch technologie beteiligt welche jürg stalder mutmaslsich mit seinem handi ausgelöst hat 
+
+[7] explizit "einige Herren" weil z.B. das foto auf der Karte pt07 zeigt ja auch dass diese Sorte von Herren bestens wissen wie sie zB. mit der Presse und einer überdimensionierten TV Kamera die ganz jungen polizsiten manipulieren können
+
+somit hat der Dominik Brändli vermutlich von Urs Blum und der zürich verischrung den auftrag bekommen möglichst viele bei der Feuerwehr mit Drogen anzufüttern um Kompromat-Daten zu erzeugen
+
+und der markus belser (welcher gemäss Dominik Brändli bei er Polizei arbeite und  vermutlich einh busenfreund von Dominik Bränldi war schon bevor ich belser gekannt hatte) hätte den selben auftrag bei der Polizei bekommen
+
+UNBEKANNT:
+Ruedi Müller, Dominik Brändli und Kevin Dieblold haben dem Meini auch mit ermordung seiner kinder/Nichten/neffen gedroht
+--> ein insert welcher wieder die Zürich Versichrung als auftraggeber aus dem Fokus nehmen würde
+
 
 
 
