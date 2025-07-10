@@ -104,4 +104,7 @@ Ruedi Müller, Dominik Brändli und Kevin Dieblold haben dem Meini auch mit ermo
 
 
 
+somit wären diese Sorte von Polizisten Menschen welche primär einen Militärsichen Background haben, und dass man gemäss Nico Wild Offizieren beibringt man solle Zivilisten mit dem Sniper Gewehr nur anschiessen, weil das würde mehr Personal unter den Zivilisten binden als wenn man einen Zivilsiten ganz erschiesst wäre nur die Spitze des Eisbergs eines kompletten Portfolio von Intimidation Surveillance bis Mord an Zivilisten um die Zivilisten welche aus der Sicht von Offiziern Sklaven oder sogar weniger Wert sind als Tiere einzuschüchtern
+
+WTF ...
 
