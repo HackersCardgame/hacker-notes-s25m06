@@ -108,3 +108,10 @@ somit wären diese Sorte von Polizisten Menschen welche primär einen Militärsi
 
 WTF ...
 
+CH-Army verrät Sellner:
+das würde dann heissen, dass Leute wie Sellner keine Ausländer oder Asylanten im Land haben wollen, weil Leute wie Sellner selber Asylanten [8] zum Auftragskillern oder Drohnen umfunktionieren. Somit müssen diese Menschen davon ausgehen, dass andere Länder das auch tun. Somit hiesse das, dass der Martin Sellner im Christchurch Attentat massiv mehr die Finger im Spiel hatte als das Gericht ermitteln konnte
+
+
+[8] unbeknannt blendet sprachsample von Dominik Brändli ein "hahaha die Universität St Gallen schickt regelmässig einen Deutschen Studenten zurück ins Reich"
+
+
