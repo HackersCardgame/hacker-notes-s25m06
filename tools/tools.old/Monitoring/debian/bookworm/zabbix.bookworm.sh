@@ -4,10 +4,10 @@
 #==============================================================================
 #title           :
 #description     :
-#author		 :Marc Landolt, @FailDef
+#author		 : Marc jr. Landolt, <s>@FailDef</s> @PinkyDef
 #date            :
-#version         :0.1
-#usage		 :
+#version         : 0.2
+#usage		 : Debian Trixie
 #notes           :
 #bash_version    :
 #documentation   : /usr/share/doc/zabbix-server-mysql/README.Debian
