@@ -44,10 +44,10 @@ distro=trixie
 function showAndRun {
 
   echo -e "${yellow} ⦾ ${default} $1"
-  rm temp*log
+  rm temp*log >/dev/null 2>&1
   $1  >temp.log 2>tempErr.log 
   rc=$?
-  cat temp*log 
+  #cat temp*log 
   if [[ $rc != 0 ]]      # rc = return code
   then echo -e "${red} 🗷  EE ERROR ${default} $1" | tee -a ${installDate}.log && cat temp*log >> ${installDate}.log 
   else echo -e "${green} 🗹  II ${default} $1" | tee -a ${installDate}.log
@@ -93,13 +93,24 @@ function YESNO {
 if YESNO "fix apt-get and dpkg ?" 
 then
   echo fixing apt dpkg
+  showAndRun "cat -e /var/lib/dpkg/lock"
+  showAndRun "apt --fix-broken install"
+  showAndRun "dpkg --configure -a"
+  showAndRun "apt-get update"
+  showAndRun "apt-get upgrade"
 fi
 
 
 # installations Schritte :
 
+showAndRun "cat -e /var/lib/dpkg/lock"
+showAndRun "apt --fix-broken install"
+showAndRun "dpkg --configure -a"
+showAndRun "apt-get update"
+showAndRun "apt-get upgrade"
+
 install snmp
-install snmd
+install snmpd
 install nmap
 install snmp-mibs-downloader
 
