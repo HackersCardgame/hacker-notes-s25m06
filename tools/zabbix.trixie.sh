@@ -11,14 +11,14 @@
 #                  Facebook: /marc.landolt.9
 #
 # version        : 0.2.1
-# usage          : zabbix.trixie.sh <password>
-#                  (if root you dont need to delete it in history)
+# usage          : zabbix.trixie.sh
 #
 # documentation  : /usr&share/doc/zabbix-*/README.Debian
 #                  https://www.zabbix.om/documentation...
 #
 # ============================================================================
 #
+
 installDate=$(date +%Y-%m-%d.%H.%M.%S)
 echo $installDate
 figlet $installDate
@@ -58,13 +58,11 @@ fi
 
 function test {
 
-echo -e "${red} red ${yellow} yellow ${green} green ${blue} blue ${default}"
-echo $1
-echo $2 $3
+echo -e "${red} red ${yellow} yellow ${green} green ${blue} blue ${default} $1 $2 $3 "
 
 }
 
-test test1 test2 test3
+test test1 simple "color test"
 
 
 function install {
@@ -87,32 +85,27 @@ function YESNO {
     echo -e "${yellow} NO: ${default} $1" | tee -a ${installDate}.log
     return 1
   fi
+
 }
 
 
 if YESNO "fix apt-get and dpkg ?" 
 then
-  echo fixing apt dpkg
+  echo fixing apt and dpkg and updating
   showAndRun "cat -e /var/lib/dpkg/lock"
   showAndRun "apt --fix-broken install"
   showAndRun "dpkg --configure -a"
-  showAndRun "apt-get update"
-  showAndRun "apt-get upgrade"
+  showAndRun "apt-get -y update"
+  showAndRun "apt-get -y upgrade"
 fi
 
 
 # installations Schritte :
 
-showAndRun "cat -e /var/lib/dpkg/lock"
-showAndRun "apt --fix-broken install"
-showAndRun "dpkg --configure -a"
-showAndRun "apt-get update"
-showAndRun "apt-get upgrade"
-
 install snmp
 install snmpd
 install nmap
-install snmp-mibs-downloader
+install snmp-mibs-downloader   # Requires non-free repository
 
 install zabbix-agent 
 install zabbix-agent2
@@ -123,14 +116,14 @@ install zabbix-cli
 
 install postgresql
 install apache2
-install php8.4 
+install php8.4      # will be dfifferent in next version
 install libapache2-mod-php
 install php
 install php-pgsql
 
 cd /home
 
-sudo -u postgres psql -c "\l"
+sudo -u postgres psql -c "\l"   
 
 if YESNO "drop old database completely ?"
 then
@@ -159,13 +152,15 @@ ln -s /usr/share/zabbix /var/www/html/
 
 /usr/sbin/a2enmod php
 
-if YESNO "modify /etc/php/*/apache2/php.ini ?"
+if YESNO "modify /etc/php/*/apache2/php.ini and edit zabbix config for DB-Password ?"
 then
   echo "
     post_max_size = 16M
     max_execution_time = 300
     max_input_time = 300
     " >> /etc/php/8.4/apache2/php.ini
+
+  vim -c "/DBPas" /etc/zabbix/zabbix_server.conf
 
   systemctl stop zabbix-server apache2
   systemctl start zabbix-server apache2
