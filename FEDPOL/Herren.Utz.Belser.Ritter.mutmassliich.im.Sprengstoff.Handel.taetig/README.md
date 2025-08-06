@@ -45,3 +45,22 @@ also ein Zylinder Geon [2] alle ungefähr ähnlich von den Proportionen wie
 
 META: ich hab dieses Dokument und das Foto bereits gedruckt und mehrfach abgelegt
 
+
+04:01:
+weiteres Computer-Cyber-Informatik-EDV-forensische Arbeiten
+
+als ich das Foto gemacht habe und die SD-Karte am PC eingesteckt habe hat sich die SD-Karte versabschiedet, nicht mehr lesbar.
+
+Das ist informatik, ich vermute schlussendlich wäre das Zensursoftware der Zürich Versichrung welche viele Kunden haben welche sich mit Sprengstoff oder auch "nur" Sprengstoff-Drohungen geltung verschafen. Also da gibt es eine Funktion "Beweismittel sofort vernichten". Die Zürich Versicherung ist MUTMASSLICH der Zivile Arm des Terrornetzwerks "Schweizer Armee", weil Beweismittel udn diese Dinge wäre ein Offizier ohne Rechtswissenschafts-Hintergrund zu blöd sich und sein Terrornetzwerker nicht zu verraten.
+
+dass die Zürich Versichrung dort bestimmt auch viele Produkte hat ist ausserdem auch plausibel weil die Zürich Verischrung ja früher eine "Cyber Versichrung" hatte, bzw. war das vermutlich eher ein Zensur-Produkt für straffälliges Klientäl der Zürich Versichrung
+
+da ich da aber selber zum Verbrecher und Hacker werden müsste um das beweisen zu können habe ich keine Beweise, also Rechtlich VORERST mal Spekulation
+
+
+
+
+
+
+
+
