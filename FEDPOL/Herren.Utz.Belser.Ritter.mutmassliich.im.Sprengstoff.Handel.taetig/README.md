@@ -85,3 +85,14 @@ und das würde dann auch nur dann sinn machen, wenn urs blum [1], David utz, Mar
 
 
 [1] welcher seinen Sohn Philipp Blum bereits als Minderjährigen dazu abgerichtent hat zu bellen "ICH (phil9ilpp blum) will Sprengmeister werden"
+
+
+
+04:34:
+jajaja auf dem notfall plan fotoaparat steht 2060 als jahreszahl. muss ich dann noch einstellen. nächten forensik notfall plan angebraucht.
+
+Wenn ich jetzt Computer-dumm wäre, dann wären diese Beweismittel weg
+
+bzw wenn ich in Computer-Dumm genau so schlecht wie in sprache zeugs dumm, dann wären diese Fotos weg ... 
+
+
