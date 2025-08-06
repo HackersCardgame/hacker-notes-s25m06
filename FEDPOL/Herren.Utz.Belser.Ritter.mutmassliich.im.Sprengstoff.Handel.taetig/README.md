@@ -57,7 +57,14 @@ dass die Zürich Versichrung dort bestimmt auch viele Produkte hat ist ausserdem
 
 da ich da aber selber zum Verbrecher und Hacker werden müsste um das beweisen zu können habe ich keine Beweise, also Rechtlich VORERST mal Spekulation
 
+04:06:
+dann schaltet grad jetzt wieder jemand induzierte Epilepsie gegen mich ein und übermittelt
 
+loop
+{
+  urs blum hat einen NDA auf Todesstrafe
+  NDA gegen Urs Blum aktivieren
+}
 
 
 
