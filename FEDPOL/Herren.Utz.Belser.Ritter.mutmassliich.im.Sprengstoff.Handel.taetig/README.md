@@ -14,3 +14,34 @@ dann kurz danach wird übermittelt: David Utz hatte primär den Auftrag den erst
 [FORK] zwecks ...
 [FORK] weil ...
 
+
+... egal wie formuliert, entweder wurden die Swisscom Handy Funknetze (sabrinas erster(?) Freund war im Swisscom Handy-Netz Bau angestlelt) hat Sabrina gesagt
+
+dann wäre der Film "Snowhite" auch nur gemacht worden um von systematischem Sprengstoffhandel der Banker abzuleknen ???
+
+
+
+
+Herleitung:
+ich hab das Ding aus Hygiene-Gründen desinfiziert, bzw. in desinfizierenden Alokohl eingelegt, dann wieder heraus genommen, dann ist mir aufgefallen, dass etwas mit dem Gewicht nicht stimmt, weil zu schwer für Plastick und ein bisschen Blech
+
+Also wie als kleines Kind schon schraubt der Nerd/Technologie-Enthusiast (ich mich) das dann auf und dann wäre ein Gewicht allenfalls Funktional, ABER das Papier in der Grösse eines Drogen XTC Trips hat keine Funktion, soll also psychologische Kriegsführung sein und Geltungssucht dieser Sorte von Offizieren
+
+das würde dann auch erklären weshalb der david utz mir damals schon gesagt hat "it's in you head" [1]
+
+[1] und nicht das "it's all in your head" von afaik der Band Groillaz sondern das was man auf dem CT sieht
+
+also ein Zylinder Geon [2] alle ungefähr ähnlich von den Proportionen wie
+* Boxsack
+* das Zylinderförmige Dinge in meinem CT
+* ein altes Cyperss welches nicht elektronisch funktioniert
+  (so weit ich mich erinnern mag auf Google)
+* dieses Ding hier
+* ein Projektil einer Pistole
+
+
+[2] Psychologie = Grundform, gibt nur en wikipedia Artikel dazu
+
+
+META: ich hab dieses Dokument und das Foto bereits gedruckt und mehrfach abgelegt
+
