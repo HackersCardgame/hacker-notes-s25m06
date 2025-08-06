@@ -66,8 +66,18 @@ loop
   NDA gegen Urs Blum aktivieren
 }
 
+dann sobald das aufgeflogen ist wird ganz viel zufälliger andere sabotagen aktiviert um forensiz zu erschweren
 
 
+PICT0000.JPG
+PICT0001.JPG
+PICT0002.JPG
+PICT0003.JPG
+PICT0004.JPG
+
+allenfalls hat es alle SD Karten in Sony Apparaten im Umkreis von ca 1m um meinen Computer (oder wohungun oben / unten dran ein Sender) erwischt
+
+aber da sind jetzt vermutlich blackhats der CH-Army welche spezialisiert sind darauf forensik dinge zu sabotieren
 
 
 
