@@ -96,3 +96,24 @@ Wenn ich jetzt Computer-dumm wäre, dann wären diese Beweismittel weg
 bzw wenn ich in Computer-Dumm genau so schlecht wie in sprache zeugs dumm, dann wären diese Fotos weg ... 
 
 
+
+
+08:29:
+
+Simon Härdi, die Studenten-Verbindung von Simon Härdi oder die ganze HTL wäre seit jahrzeihnten im illegalen Sprengstoffhandel tätig
+-> herleitung scans ab seite 4055
+
+Die ETH und die HTL (je einer der Gutknecht Brothers) wollenn logischerweise nicht von ihren eigenem Sprengstoff den sie handeln in die Luft gesprengt werden, also schauen die Herren Informatiker Offiziere und Informatiker dass sie das Überwachungssystem immer unterwandert halten können
+
+Damals hat der Simon Härdi zu mir ja un[uz]aufgefordert gesagt "Handel ist immer eine grosse schwarze Box mit einer kleiner weissen box drauf für den Händler"
+
+das wäre keine Box, das wäre ein grosser Zylinder mit einem kleinen Rundumlei (Kreislein)
+
+
+und das hätten andere auch schon heraus gefunden deshalb haben die HTL und andere angefangen Nerds abzuschlachten oder mit dem Amoklauf an einem Minkorrekt (Chaos Computer Club nahe) Event psychologische Kriegsführung gegen alle Nerds begonnen
+
+
+[uz] david utz mit utzi bewaffen  - utzi ist ein liebligswort von patrick maurer 
+
+
+
