@@ -75,9 +75,13 @@ PICT0002.JPG
 PICT0003.JPG
 PICT0004.JPG
 
-allenfalls hat es alle SD Karten in Sony Apparaten im Umkreis von ca 1m um meinen Computer (oder wohungun oben / unten dran ein Sender) erwischt
+allenfalls hat es alle SD Karten in Sony Apparaten (zwei fast identische modelle) im Umkreis von ca 1m um meinen Computer (oder wohungun oben / unten dran ein Sender) erwischt
 
 aber da sind jetzt vermutlich blackhats der CH-Army welche spezialisiert sind darauf forensik dinge zu sabotieren
 
 
+und das würde dann auch nur dann sinn machen, wenn urs blum [1], David utz, Markus Belser und polizsit michael ritter tatsächlich im illegalen Sprengstoff handel tätig sind
 
+
+
+[1] welcher seinen Sohn Philipp Blum bereits als Minderjährigen dazu abgerichtent hat zu bellen "ICH (phil9ilpp blum) will Sprengmeister werden"
