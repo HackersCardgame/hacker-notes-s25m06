@@ -154,4 +154,22 @@ und wirst case wären das ca 20 Autoraser welche sich abwechseln, so würde jede
 
 Also da wäre es wünschenswert wenn das FEDPOL mal mit der Kantonspolizei Aargau sprechen könnte und da rigorose einfach Fahrschein Entzügen machen würde bei den "netten" Herren deren Mamis ihnen einen Sportwagen mit Remus Auspuf finanziert hat
 
+marc@debian:~/hacker-notes-s25m06$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s25m06$ figlet KAPO
+ _  __    _    ____   ___  
+| |/ /   / \  |  _ \ / _ \ 
+| ' /   / _ \ | |_) | | | |
+| . \  / ___ \|  __/| |_| |
+|_|\_\/_/   \_\_|    \___/ 
+                           
+marc@debian:~/hacker-notes-s25m06$ 
+
+also um Sheldon zu zitieren welcher den Spok zitiert: "Das wohl der Vielen ist wichtiger als das Wohl der wenigen oder der einzelnen (welche dann ZURECHT auf's Fahrrad umsteigen müssen)"
+
 
